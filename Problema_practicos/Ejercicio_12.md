@@ -1,0 +1,32 @@
+![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
+
+
+# 🦉 Ejercicio 12: *Tienda de Ropa* 🦉
+
+---
+
+## 🎯 Objetivo
+Aplicar herencia para manejar distintos tipos de prendas.
+
+---
+
+## 💻 Lenguaje
+Java
+
+---
+
+## 🤖 IA a usar
+Genera con IA (ChatGPT, Gemini o Copilot) el código en Java aplicando **herencia**, **polimorfismo**, **sobrescritura** y **constructores** según corresponda.
+
+---
+
+## 📄 Planteamiento del problema 📄
+
+### 🔹 Operaciones a realizar
+Herencia, sobreescritura, constructores con parámetros.
+
+### 🔹 Datos de entrada
+Tipo de prenda, talla, precio, características.
+
+### 🔹 Datos de salida
+Información detallada de cada prenda.
